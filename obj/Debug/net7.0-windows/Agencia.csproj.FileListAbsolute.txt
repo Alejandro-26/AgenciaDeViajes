@@ -1,0 +1,22 @@
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\bin\Debug\net7.0-windows\Agencia.exe
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\bin\Debug\net7.0-windows\Agencia.deps.json
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\bin\Debug\net7.0-windows\Agencia.runtimeconfig.json
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\bin\Debug\net7.0-windows\Agencia.dll
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\bin\Debug\net7.0-windows\Agencia.pdb
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\obj\Debug\net7.0-windows\Agencia.csproj.AssemblyReference.cache
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\obj\Debug\net7.0-windows\Agencia.Form1.resources
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\obj\Debug\net7.0-windows\Agencia.csproj.GenerateResource.cache
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\obj\Debug\net7.0-windows\Agencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\obj\Debug\net7.0-windows\Agencia.AssemblyInfoInputs.cache
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\obj\Debug\net7.0-windows\Agencia.AssemblyInfo.cs
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\obj\Debug\net7.0-windows\Agencia.csproj.CoreCompileInputs.cache
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\obj\Debug\net7.0-windows\Agencia.dll
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\obj\Debug\net7.0-windows\refint\Agencia.dll
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\obj\Debug\net7.0-windows\Agencia.pdb
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\obj\Debug\net7.0-windows\Agencia.genruntimeconfig.cache
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\obj\Debug\net7.0-windows\ref\Agencia.dll
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\obj\Debug\net7.0-windows\Agencia.Properties.Resources.resources
+C:\Users\Yeidr\OneDrive\Escritorio\.NET\Agencia\obj\Debug\net7.0-windows\Agencia.Form2.resources
+C:\Users\Andres Riveros\source\repos\Agencia\obj\Debug\net7.0-windows\Agencia.dll
+C:\Users\Andres Riveros\source\repos\Agencia\obj\Debug\net7.0-windows\refint\Agencia.dll
+C:\Users\Andres Riveros\source\repos\Agencia\obj\Debug\net7.0-windows\Agencia.pdb
